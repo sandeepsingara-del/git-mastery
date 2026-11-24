@@ -1,9 +1,9 @@
 ## What changed?
-- 
+- Added two lines to README, squashed into one signed commit
 
 ## How was this tested?
-- 
+- Automated PR Check (verify) passes
 
 ## Checklist
-- [ ] Commits are signed
-- [ ] Automated checks pass
+- [x] Commits are signed
+- [x] Automated checks pass
